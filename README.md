@@ -3,7 +3,7 @@
 ✨ This README gives you quick access to official Azure resources and tutorials for **Bicep**.
 
 ## 📖 Documentation
-[![Docs]()](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
+[![Docs](https://img.shields.io/badge/Docs-Bicep-success?logo=bicep)](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 
 ---
 
