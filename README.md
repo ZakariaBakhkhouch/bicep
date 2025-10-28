@@ -7,7 +7,7 @@
 
 ---
 
-## 🎥 Learning Resources
+## 🎥 Resources
 - ▶️ [Use Bicep to deploy your Azure infrastructure as code](https://www.youtube.com/playlist?list=PLlrxD0HtieHjzqIRjPoERUGj49rve3rCM)  
 - ▶️ [Azure Bicep Crash Course | Step by Step | All in One](https://www.youtube.com/watch?v=mKG5d9rnaYg)  
 
